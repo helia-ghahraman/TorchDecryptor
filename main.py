@@ -73,7 +73,7 @@ if __name__ == "__main__":
 
     decryptor = DecryptAndLoadModel(secret_key)
 
-    file_to_decrypt = '/home/helia/internship/task6-file encrypt/decrypt/torch_decrypt/encrypted_data.bin'
+    file_to_decrypt = 'encrypted_data.bin'
 
     decrypted_data = decryptor.decrypt_file(file_to_decrypt)
 
