@@ -21,8 +21,8 @@ For installing the dependencies, just run the bellow command:
 
 ### Get the project
 ```bash
-  git clone https://github.com/helia-ghahraman/torchDecryptor.git
-  cd torchDecryptor
+  git clone https://github.com/helia-ghahraman/TorchDecryptor.git
+  cd TorchDecryptor
 ```
  
 ---
